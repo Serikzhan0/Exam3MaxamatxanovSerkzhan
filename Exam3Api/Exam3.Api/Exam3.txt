@@ -1,0 +1,19 @@
+1 - Collections 
+Ma'lumotlarni saqlash uchun ishlatiladigan kolleksiya turlari. Misollar: list, dictionary,queue,stack 
+
+2 - Inheritance 
+Inheritance bu bir classdan boshqa classga meros olishi ozimizni tilda etganda ota classdan ogli classiga meros olishi.
+Masalan animal class dan meros olamiz bir class ochamiz dog yoki cat degan
+va osha classga Animal classni yozib qoyamiz va animal classdan dog classga meros otib qoladi avtomatik ravishda 
+kod varianti:
+class Animal
+{
+}
+
+class Dog : Animal
+{
+}
+
+3 - Ref va Out
+Ref va Out bu biror bir qiymatni ozgartirmoqchi bolsak ishlatiladi, bunda biriga oldindan qiymat berilgan bolishi 
+shart biriga shart emas.
